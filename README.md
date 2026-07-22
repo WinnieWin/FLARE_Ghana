@@ -1,6 +1,6 @@
 # FLARE — Ghana
 
-**Flood-Linked Alert for Regional Epidemics** — a proof-of-concept dashboard for
+**Flood-Linked Alert for Regional Epidemics** - a proof-of-concept dashboard for
 flood-triggered malaria early warning in Accra and Kumasi.
 
 Sentinel-1 radar detects new mosquito breeding pools after a flood, and FLARE
